@@ -11,6 +11,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre](#Sobre)
+      * [Fotos do projeto](#fotos)
    * [Peças](#Peças)
    * [Competição](#Competição)
 <!--te-->
@@ -25,7 +26,23 @@ Tabela de conteúdos
 
 + Foi desenvolvido com a IDE do Arduino utilizando a biblioteca da placa esp8266.
 
-+ Foi desenvolvido como parte principal da materia de 
++ Foi desenvolvido como parte principal da materia de  
+
+<img src="img/Codigo1.jpeg"  alt="Unform"/>
+
+## fotos
+
+<img src="img/Foto1.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto2.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto3.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto4.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto5.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto6.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto7.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto8.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto9.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto10.jpeg" height="150" width="175" alt="Unform"/>
+<img src="img/Foto11.jpeg" height="150" width="175" alt="Unform"/>
 
 ## Peças 
 
@@ -76,5 +93,7 @@ Motor DC com a rodinha:
 
 + Apesar dos problemas grande parte foi resolvido na hora do evento.
 + Fotos e videos foram dispostos abaixo:
-    1) Link da 1 partida do carrinho: https://www.youtube.com/watch?v=AXjlCA3nseY
-    2) 
+
+Link da 1 partida do carrinho: 
+  
+    https://www.youtube.com/watch?v=AXjlCA3nseY
