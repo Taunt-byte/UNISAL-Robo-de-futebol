@@ -28,7 +28,7 @@ Tabela de conteúdos
 
 + Foi desenvolvido como parte principal da materia de  
 
-<img src="img/Codigo1.jpeg"  alt="Unform"/>
+<img src="img/Codigo1.jpeg" height="150" width="175" alt="Unform"/>
 
 ## fotos
 
